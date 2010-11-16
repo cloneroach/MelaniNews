@@ -1,0 +1,22 @@
+changelog 1.00
+------------------------------------
+ - Apacing for red background to upper and bottom sides increased by 2px for Leave a Reply text
+ - CSS files are re-written for subheaders in posts (ability to use h1,h2,h3 and h4 headers in post)
+ - Widget Names are described on Installation guide
+
+changelog 0.97
+------------------------------------
+ - Featured post area JS library is changed. (home.php - header.php)
+
+ - Enable Left Quote option fix 
+   Disable option was not available (affected file: functions.php)
+
+ - Dropdown menu fix for IE. 
+   Dropdown lists were staying visible even when mouse is moved out of menu area. (affected file: styles/all style files)
+
+ - Featured post title fix
+   (-y, -g, -p) letters flows down of the line are not being cropped with Internet Explorer anymore
+
+ - 5 more widgetized areas added (functions.php, footer.php, home.php)
+   Widgetized areas: Breaking News column, Footer category list section, Footer pages list section, Footer theme info list section, Right sidebar on inner pages
+   
